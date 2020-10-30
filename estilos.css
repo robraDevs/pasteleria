@@ -1,1 +1,14 @@
-header {background-color: coral;}
+h1 {
+    font-size: 50px;
+
+    font-family: cursive;
+    font-weight: bold;
+    }
+    h2 {font-family: georgia;
+    }
+    header, section, footer, aside, nav, article {
+        border: 5px solid black;
+         }
+         body {text-align: center;
+
+         }
