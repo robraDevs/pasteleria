@@ -1,27 +1,36 @@
 h1 {
-  font-size: 50px;
+  background:#fbc6aa;
+  font-size: 100px;
   font-family: Lucida Sans;
   font-weight: bold;
 }
 h2 {
+  background:	#dd8d90 ;
   font-weight: bold;
-  font-size: 25px;
-  font-family: georgia;
+  font-size: 50px;
+  font-family: cursive;
   
 
 }
+h3 {
+  background:#b5828c ;
+  font-size:  30px;
+  
+}
 header, section, footer, aside, nav, article, hgroup {
-  border: 5px solid black;
+  border: 5px solid	#fbc6aa ;
   display: block
 }
 body {
-  text-align: center;
+  background:#6f6a76 ;
+  text-align: center; 
+  margin: auto
 }
 .agrupar {
-  width: 400px;
+  width: 1500px;
   border: solid white;
   margin: auto;
-  padding: 60px;
+  padding: 10px;
 
 
 }
@@ -30,6 +39,21 @@ body {
   border: 10px solid #b5828c;
   padding: 20px
 }
+.menu {
+  background: #6f6a76;
+  padding: 15px;
+  
+}
+
+.menu li {
+  list-style: none;
+  padding: 5px;
+  font: bold 25px verdana;
+  display: inline-block;
+
+
+}
+
 
 
 
