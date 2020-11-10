@@ -1,26 +1,36 @@
 h1 {
-    font-size: 50px;
-    
+  font-size: 50px;
+  font-family: Lucida Sans;
+  font-weight: bold;
+}
+h2 {
+  font-weight: bold;
+  font-size: 25px;
+  font-family: georgia;
+  
 
-    font-family: cursive;
-    font-weight: bold;
-    }
-    h2 {font-family: georgia;
-    }
-    header, section, footer, aside, nav, article {
-        border: 5px solid black;
-         }
-         body {text-align: center;
-        }
-      .agrupar {
-        width: 950px;  background-color: crimson;
-      }
-      .header{ border: 3px solid #111111;
-      padding: 20px;
-     }
-     .menu {
-       background: #cccccc;
-       padding: 5px 15px;
-     }
+}
+header, section, footer, aside, nav, article, hgroup {
+  border: 5px solid black;
+  display: block
+}
+body {
+  text-align: center;
+}
+.agrupar {
+  width: 400px;
+  border: solid white;
+  margin: auto;
+  padding: 60px;
+
+
+}
+.header {
+  background:#fbc6aa ;
+  border: 10px solid #b5828c;
+  padding: 20px
+}
+}
+
 
          
