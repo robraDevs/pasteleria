@@ -69,12 +69,29 @@ body {
    float: right;
    background: rosybrown;
  }
+ .columna blockquote {
+   border: 1px solid white;
+   padding: 40px;
+   background: salmon;
+   margin: 40px;
+ }
  .pie {
    clear: both;
    padding: 20px;
    background: thistle;
  }
+ img {
+   margin: 40px;
+   border: black;
+ }
+address {
+  width: 800px;
+  margin: 10px;
+  background: azure;
+  padding: 35px;
+  text-align: center;
 
+}
 
 
 
